@@ -2,7 +2,7 @@ state:
 - environment: dev
   tag: ggyytt55
 - environment: qa
-  tag: "333444555"
+  tag: ggyytt55
 - environment: staging
   tag: wow789
 - environment: production
