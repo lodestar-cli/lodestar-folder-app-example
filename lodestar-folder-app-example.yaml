@@ -1,3 +1,9 @@
-stateGraph:
+state:
 - environment: dev
   tag: 333444555
+- environment: qa
+  tag: 333444555
+- environment: staging
+  tag: wow789
+- environment: production
+  tag: v1.2.3                      
