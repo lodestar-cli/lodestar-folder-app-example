@@ -1,4 +1,4 @@
-stateGraph:
+state:
 - environment: dev
   tag: 333444555
 - environment: qa
