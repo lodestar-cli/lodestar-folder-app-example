@@ -2,7 +2,7 @@ state:
 - environment: dev
   tag: 33eewwqqrr
 - environment: qa
-  tag: 333ttasdfafsd
+  tag: 33eewwqqrr
 - environment: staging
   tag: wow789
 - environment: production
