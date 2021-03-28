@@ -4,6 +4,6 @@ state:
 - environment: qa
   tag: 33eewwqqrr
 - environment: staging
-  tag: wow789
+  tag: 33eewwqqrr
 - environment: production
   tag: v1.2.3
