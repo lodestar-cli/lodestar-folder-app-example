@@ -2,7 +2,7 @@ state:
 - environment: dev
   tag: 4567qqxyz
 - environment: qa
-  tag: 33eewwqqrr
+  tag: 4567qqxyz
 - environment: staging
   tag: 33eewwqqrr
 - environment: production
