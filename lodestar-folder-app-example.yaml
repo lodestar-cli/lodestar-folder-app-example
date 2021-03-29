@@ -4,6 +4,6 @@ state:
 - environment: qa
   tag: 4567qqxyz
 - environment: staging
-  tag: 33eewwqqrr
+  tag: 4567qqxyz
 - environment: production
   tag: v1.2.3
