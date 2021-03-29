@@ -1,6 +1,6 @@
 state:
 - environment: dev
-  tag: "11122333"
+  tag: 5f2efa6
 - environment: qa
   tag: 4567qqxyz
 - environment: staging
