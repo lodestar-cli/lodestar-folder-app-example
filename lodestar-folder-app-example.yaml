@@ -1,9 +1,17 @@
-state:
-- environment: dev
-  tag: abc1234
-- environment: qa
-  tag: "123123444"
-- environment: staging
-  tag: 4567qqxyz
-- environment: production
-  tag: v1.2.3
+updated: "2021-04-16T17:03:41-05:00"
+environmentStateGraph:
+  - name: dev
+    yamlKeys:
+      tag: 12345
+  - name: qa
+    yamlKeys:
+      tag: 12345
+  - name: staging
+    yamlKeys:
+      tag: 12345
+  - name: production
+    yamlKeys:
+      tag: 12345
+  - name: qa
+    yamlKeys:
+      tag: 12345
