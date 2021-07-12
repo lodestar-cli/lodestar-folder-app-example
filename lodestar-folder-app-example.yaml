@@ -1,9 +1,9 @@
-updated: 2021-07-12T16:03:36Z
+updated: 2021-07-12T16:03:40Z
 environmentStateGraph:
 - name: dev
   yamlKeys: {tag: 3727e02}
 - name: qa
-  yamlKeys: {tag: "1234567"}
+  yamlKeys: {tag: 3727e02}
 - name: staging
   yamlKeys: {tag: "12345"}
 - name: production
